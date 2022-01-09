@@ -18,5 +18,5 @@ id is auto generated field you don't write it in the Schema of the collection.
 7. soft delete for user. (delete profile but not delete it from the database).
 8. get user’s name starts with any string. (string passed as a param in the url).
 9. get youth user by age. (ages between 20 and 30).
-11 get all messages.
-12. get messages with information of sender and receiver -users-.
+10. get all messages.
+11. get messages with information of sender and receiver -users-.
