@@ -1,7 +1,5 @@
 /**
  * author : Mahmoud Abo-Hgr .
- * Group : Friday 10-->4 
- * Assignment 7
  * Backend Node.js
  */
 
